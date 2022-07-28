@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    /* margin: 0px;
+    padding: 0px; */
+}
+
+body{
+    background-color: #efedd6;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+h1 {
+    margin: 10px;
+}
+
+.box {
+    background-color: steelblue;
+    color: #fff;
+    /* display: flex; */
+    /* align-content: center; */
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+    
+    
+}
+
+h2 {
+    background-color: red;
+}
