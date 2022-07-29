@@ -1,1 +1,1 @@
-# aniamation-project
+# animation-project
